@@ -67,7 +67,7 @@ export const products = [
   },
   {
     id: 2,
-    cover: "../images/product/611mRs-imxL._SL1500_.jpg",
+    cover: "../images/product/611mRsImxLSL1500.jpg",
     title:"Apple iPhone 14 512GB (Product) RED",
     // title: "Floating 2021 iPhone 12 Mockups (PSD)",
     author: "Apple",
@@ -86,7 +86,7 @@ export const products = [
   },
   {
     id: 4,
-    cover: "../images/product/OnePlus-NOrd-CE2.jpg",
+    cover: "../images/product/OnePlusNOrdCE2.jpg",
     title: "OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
     author: "OnePlus",
     price:  ("1999"),

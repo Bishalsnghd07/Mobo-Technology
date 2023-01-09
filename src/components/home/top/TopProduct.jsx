@@ -6,7 +6,7 @@ import { ProductItems } from "../product/ProductItems"
 export const TopProduct = () => {
   const [cartItems, setCartItems] = useState(topProducts)
   const allCategories = ["all", ...new Set(cartItems.map((item) => item.category))]
-  const [category, setCategory] = useState(allCategories)
+  const [category] = useState(allCategories)
 
   /*console.log(setCartItems)
   console.log(setCategory)
